@@ -37,7 +37,8 @@ a {
 
 .hero {
     display: flex;
-    gap:50px;
+    gap: 50px;
+    margin: 150px 0px;
 }
 
 .hero-main {
@@ -73,3 +74,36 @@ a {
     background-color: #E5E7EB;
     flex: 50%;
 }
+
+.info-board {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F9FAF8;
+}
+
+.info-board h1 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.info-div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.info-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info-box {
+    height: 200px;
+    width: 200px;
+    border: 4px solid blue;
+    border-radius: 16px;
+}
+
