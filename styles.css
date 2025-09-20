@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-body {
+.header-hero {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
@@ -111,8 +111,19 @@ a {
     background-color: #E5E7EB;
 }
 
+.info-board,
+.quote-section {
+    padding: 100px 200px;
+}
+
 .quote {
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
+}
+
+.autor {
+    position: relative;
+    left: 75%;
+    font-weight: bold;
 }
