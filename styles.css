@@ -16,6 +16,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 2rem;
 }
 
 .header h1 {
@@ -109,10 +110,6 @@ a {
 
 .quote-section {
     background-color: #E5E7EB;
-}
-
-.info-board,
-.quote-section {
     padding: 100px 200px;
 }
 
@@ -126,4 +123,31 @@ a {
     position: relative;
     left: 75%;
     font-weight: bold;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4rem;
+}
+
+.box-sign-up {
+    display: flex;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 2rem 6rem;
+    border-radius: 1rem;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 2rem;
+
 }
