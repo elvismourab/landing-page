@@ -1,0 +1,28 @@
+colors and font styles
+
+font used
+roboto
+
+dark background color (hero and footer)
+#1F2937
+
+hero main text ("this website is awesome")
+48px #F9FAF8 weight: 900
+
+hero secondary text, header link text
+18px #E5E7EB
+
+hero logo text
+24px #F9FAF8
+
+button color, call to action background color
+#3882F6
+
+information header text
+36px #1F2937 weight:900
+
+quote section background color
+#E5E7EB
+
+quote text
+36px #1F2937 weight: 300
